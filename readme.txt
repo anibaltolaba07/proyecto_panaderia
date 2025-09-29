@@ -1,0 +1,1 @@
+Generar usuarios por nombre de pila.
