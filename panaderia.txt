@@ -1,3 +1,5 @@
 Aqui presentamos opciones para realizar pedidos
 
-Rediseñamos la interfaz de pedidos.
+Se elige una opción de interfaz para los pedidos
+
+Rediseñamos la versión final de interfaz de pedidos.
