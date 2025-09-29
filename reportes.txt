@@ -1,0 +1,3 @@
+REPORTES:
+
+1- Los archivos "pantalla.txt" y "opciones.txt" presentan errores ortográficos, corregir.
