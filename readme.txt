@@ -1,1 +1,1 @@
-Generar usuarios por nombre de pila y apellido.
+Generar usuarios por nombre de pila.
