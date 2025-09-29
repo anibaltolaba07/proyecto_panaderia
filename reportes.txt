@@ -2,3 +2,4 @@ REPORTES:
 
 1- Los archivos "pantalla.txt" y "opciones.txt" presentan errores ortográficos, corregir.
 2- Hay inconsistencias en las explicaciones de ciertos archivos.
+3- Otro reporte.
